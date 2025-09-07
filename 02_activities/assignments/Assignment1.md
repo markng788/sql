@@ -105,6 +105,12 @@ Please do not pick the exact same tables that I have already diagrammed. For exa
 	- <img src="./images/01_farmers_market_conceptual_model.png" width="600">
 - The column names can be found in a few spots (DB Schema window in the bottom right, the Database Structure tab in the main window by expanding each table entry, at the top of the Browse Data tab in the main window)
 
+I added a diagram in image folder:
+
+<img src="./images/SQLA1.jpg" width="800">
+
+
+
 ***
 
 ## Section 2:
